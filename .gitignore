@@ -1,0 +1,30 @@
+# Local official document work
+**/raw/*
+!**/raw/README.md
+!examples/dummy-project/raw/
+!examples/dummy-project/raw/*.md
+
+**/selected/*
+!**/selected/README.md
+!skills/official-doc-assistant/assets/project-template/selected/
+!skills/official-doc-assistant/assets/project-template/selected/**/
+!**/selected/**/README.md
+
+**/outputs/*
+!**/outputs/README.md
+!examples/dummy-project/outputs/
+!examples/dummy-project/outputs/*.md
+
+# Private local profiles
+**/data/내업무프로필.local.md
+
+# Common sensitive document formats
+*.hwp
+*.hwpx
+*.pdf
+*.docx
+*.xlsx
+*.csv
+
+!examples/dummy-project/raw/*.md
+!examples/dummy-project/outputs/*.md
