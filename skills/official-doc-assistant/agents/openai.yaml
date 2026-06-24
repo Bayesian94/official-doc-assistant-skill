@@ -1,0 +1,4 @@
+interface:
+  display_name: "공문 업무 비서"
+  short_description: "교사용 공문 분류와 업무 보고서 생성 Skill"
+  default_prompt: "raw/ 폴더의 공문을 내 업무 프로필 기준으로 분류하고 업무 보고서를 만들어 주세요."
